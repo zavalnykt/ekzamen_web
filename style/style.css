@@ -1,0 +1,19 @@
+body {
+    margin: 20px;
+}
+
+input {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 300px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+}
